@@ -46,7 +46,6 @@ body {
 
     font-family: 'Rajdhani Regular';
     text-shadow: 0 0 3px;
-    line-height: 20px;
 
 }
 
@@ -84,6 +83,7 @@ body {
     width: 100%;
     clip-path: polygon(0 0, 100% 0, 100% 0, 100% 80%, 85% 100%, 0 100%, 0 100%, 0 0);
     position: relative;
+    line-height: 20px;
 }
 
 .moreinfo {
